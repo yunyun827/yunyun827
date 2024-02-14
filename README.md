@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @yunyun827
+# 👋 Hi, I’m Younseo Choi.
+## @yunyun827
+- ☎️: +1 (202)-409-9262
+- 📫: imyure@ewhain.net or yc0526a@american.edu
+  
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning React and TypeScript
+
 
 <!---
 yunyun827/yunyun827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
