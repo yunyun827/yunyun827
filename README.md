@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Younseo Choi.
+## fully commited FE/Product Desginer
 - Ewha Womans University 2025 | American University 2024 Spring
 - ☎️: +1 (202)-409-9262
 - 📫: imyure@ewhain.net or yc0526a@american.edu
